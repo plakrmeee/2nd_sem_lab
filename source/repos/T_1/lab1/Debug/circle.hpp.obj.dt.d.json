@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\anush\\source\\repos\\t_1\\t_1\\circle.hpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\anush\\source\\repos\\t_1\\t_1\\shape.hpp",
+            "c:\\users\\anush\\source\\repos\\t_1\\t_1\\base-types.hpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
